@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 
 💻Enviroment
 ---
-<img src="https://img.shields.io/badge/Mac OS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Mac OS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=300&section=header&text=🧑🏻‍💻RyuDongJae🇰🇷&fontSize=70&fontColor=000080)
+![header](https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=300&section=header&text=🧑🏻‍💻RyuDongJae&fontSize=70&fontColor=000080)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudongjae&theme=algolia&show_icons=true)  
 💻Languages & Framework & DATABASE

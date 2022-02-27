@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=300&section=header&text=🧑🏻‍💻RyuDongJae&fontSize=70&fontColor=000080)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E6E6FA&height=300&section=header&text=🧑🏻‍💻RyuDongJae&fontSize=70&fontColor=000080)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudongjae&theme=algolia&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudongjae&theme=algolia&show_icons=true) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryudongjae%2F&count_bg=%233259D5&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+       
 💻Languages & Framework & DATABASE
 -----
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/mybatis-DC382D?style=flat-square&logo=Java&logoColor=black"/>

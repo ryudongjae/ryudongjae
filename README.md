@@ -4,8 +4,7 @@
        
 💻Languages & Framework & DATABASE
 -----
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/mybatis-DC382D?style=flat-square&logo=Java&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/mybatis-DC382D?style=flat-square&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/gradle-02303A?style=flat-square&logo=gradle&logoColor=whitek"/>   
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
  
 
@@ -20,4 +19,8 @@
 💻Enviroment
 ---
 <img src="https://img.shields.io/badge/Mac OS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+
+💻Tech_BLOG
+---
+<a href="https://velog.io/@rdj1014" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> <a href="https://jarvics.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Bloglovin&logoColor=white"/>
 

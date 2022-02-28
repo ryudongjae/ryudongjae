@@ -22,5 +22,8 @@
 
 💻Tech_BLOG
 ---
-<a href="https://velog.io/@rdj1014" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> <a href="https://jarvics.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Bloglovin&logoColor=white"/>
-
+<a href="https://velog.io/@rdj1014" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/> <a href="https://jarvics.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Bloglovin&logoColor=white"/>  
+       
+🤷‍♂️ABOUT  
+---
+<a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>

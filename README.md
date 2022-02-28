@@ -27,3 +27,4 @@
 🤷‍♂️ABOUT  
 ---
 <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+<a href="https://stackoverflow.com/users/18328813/%eb%a5%98%eb%8f%99%ec%9e%ac" target="_blank"><img src="https://img.shields.io/badge/Stackoverflow-F58025?style=flat-square&logo=Stackoverflow&logoColor=white"/>

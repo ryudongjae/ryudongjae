@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=4169E1&height=150&section=header&text=🧑🏻‍💻RyuDongJae&fontSize=70&fontColor=F0FFFF)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudongjae&theme=prussian&show_icons=true)  
-[![commitcombo](http://commitcombo.com/theme?user=ryudongjae&theme=DeepOcean&v=1)](https://github.com/devxb/CommitCombo) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryudongjae%2F&count_bg=%233259D5&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryudongjae%2F&count_bg=%233259D5&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 
 
 💻Languages & Framework & DATABASE

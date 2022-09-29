@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=AAAAAA&height=150&section=header&text=🧑🏻‍💻RyuDongJae&fontSize=70&fontColor=F0FFFF)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudongjae&show_icons=true&theme=apprentice&count_private=true)   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ryudongjae&theme=highcontrast&hide_border=true&count_private=true)](https://git.io/streak-stats)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fryudongjae%2F&count_bg=%233259D5&title_bg=%23555555&icon=apple.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)     
+
 
 💻 Languages & Framework & DATABASE
 -----

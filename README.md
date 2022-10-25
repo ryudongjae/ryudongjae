@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=AAAAAA&height=200ction=header&text=🧑🏻‍💻RyuDongJae&fontSize=70&fontColor=808080)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudongjae&show_icons=true&theme=apprentice&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudongjae&show_icons=true&theme=apprentice&count_private=true)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ryudongjae&theme=gruvbox&border_radius=15)](https://git.io/streak-stats)
    
 

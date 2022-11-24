@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=AAAAAA&height=200ction=header&text=🧑🏻‍💻RyuDongJae&fontSize=70&fontColor=808080)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudongjae&show_icons=true&theme=apprentice&count_private=true)  
-
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ryudongjae&theme=dark&hide_border=true&fire=red&sideNums=red)
    
 
 

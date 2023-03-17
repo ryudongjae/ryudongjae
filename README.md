@@ -25,7 +25,7 @@
 <div>
 <a href="https://jarvics.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Bloglovin&logoColor=white"/> <img src="https://img.shields.io/badge/ Notion -000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Mac OS-000000?style=flat-square&logo=Apple&logoColor=white"/>   <img src="https://img.shields.io/badge/ DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white"/> <img src="https://img.shields.io/badge/ IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/> 
 <img src="https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>  <a href="https://velog.io/@rdj1014" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-</div>
+</div>  
 
 
 -----------

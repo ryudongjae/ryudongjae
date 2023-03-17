@@ -2,11 +2,7 @@
 ### ⚽️ RYUDONGJAE ⚾️
 -----------  
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ryudongjae&show_icons=true&theme=apprentice&count_private=true&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>  
-</div>  
-
-<div align="center">    
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ryudongjae&theme=dark&hide_border=true&fire=red&sideNums=red&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ryudongjae&show_icons=true&theme=apprentice&count_private=true&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ryudongjae&theme=dark&hide_border=true&fire=red&sideNums=red&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 </div>  
   
 <!-- ### ⚒ DEV TOOLS

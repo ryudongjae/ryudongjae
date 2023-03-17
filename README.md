@@ -1,13 +1,14 @@
 
 ### ⚽️ RYUDONGJAE ⚾️
------------
+-----------  
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ryudongjae&show_icons=true&theme=apprentice&count_private=true&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>  
-</div>
-<div align="center">
+</div>  
+
+<div align="center">    
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ryudongjae&theme=dark&hide_border=true&fire=red&sideNums=red&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
-</div> 
- 
+</div>  
+  
 ### ⚒ DEV TOOLS
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=black"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black"/> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=Spring&logoColor=black"/> <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&logo=Spring&logoColor=black"/>  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/> <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>  <img src="https://img.shields.io/badge/mybatis-DC382D?style=flat-square&logo=Java&logoColor=black"/>  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> 

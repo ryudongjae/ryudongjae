@@ -33,6 +33,7 @@ I'm currently developing chart backends using Java and Spring in Korea. My focus
 - DataGrip
 - Postman
 - Notion
+- vsCode
 
 
 ## Contact

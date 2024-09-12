@@ -24,7 +24,7 @@ I'm currently developing chart backends using Java and Spring in Korea. My focus
   - AWS Glue
   - AWS Athena
   - AWS CloudFormation
-  - AWS StepFunction
+  - AWS StepFunctions
 - Git,Github
 
 ## Enviroment

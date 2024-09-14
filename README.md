@@ -35,6 +35,8 @@ I'm currently developing chart backends using Java and Spring in Korea. My focus
 - Notion
 - vsCode
 
+## Recent Posts
+[Hexagonal Architecture](https://jarvics.tistory.com/122)
 
 ## Contact
 * rdj10149@gmail.com

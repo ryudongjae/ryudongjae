@@ -8,6 +8,15 @@ I'm currently developing chart backends using Java and Spring in Korea. My focus
 ❗️주식회사 한터글로벌(HanteoGlobal) (22.02 ~ )  
 * HanteoChart Backend Develop ([Hanteochart](https://www.hanteochart.com/)) 
 
+## Recent Posts
+🗄️ Dev Info (개발 관련 글,컨퍼런스) - [Read Post](https://github.com/ryudongjae/Dev-Info/blob/master/README.md)  
+⚒️  Hexagonal Architecture - [Read Post](https://jarvics.tistory.com/122)
+
+
+## Contact
+* rdj10149@gmail.com
+* [BLOG](https://jarvics.tistory.com/)
+  
 ## Tech Stack
 - JAVA
 - Spring Framework
@@ -35,12 +44,7 @@ I'm currently developing chart backends using Java and Spring in Korea. My focus
 - Notion
 - vsCode
 
-## Recent Posts
-[Hexagonal Architecture](https://jarvics.tistory.com/122)
 
-## Contact
-* rdj10149@gmail.com
-* [BLOG](https://jarvics.tistory.com/)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryudongjae&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>

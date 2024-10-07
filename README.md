@@ -10,7 +10,7 @@ I'm currently developing chart backends using Java and Spring in Korea. My focus
 
 ## Recent Posts
 🗄️ Dev Info (개발 관련 글,컨퍼런스) - [Read Post](https://github.com/ryudongjae/Dev-Info/blob/master/README.md)  
-⚒️  Hexagonal Architecture - [Read Post](https://jarvics.tistory.com/122)
+⚒️  Hexagonal Architecture - [Read Post](https://jarvics.tistory.com/122)  
 ⚒️  트랜잭션 강결합과 약결합 - [Read Post](https://jarvics.tistory.com/125)
 
 

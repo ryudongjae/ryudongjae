@@ -11,7 +11,9 @@ I'm currently developing chart backends using Java and Spring in Korea. My focus
 ## Recent Posts
 ⚒️  Hexagonal Architecture - [Read Post](https://jarvics.tistory.com/122)  
 ⚒️  트랜잭션 강결합과 약결합 - [Read Post](https://jarvics.tistory.com/125)  
-⚒️  Mysql Engine에 대해 - [Read Post](https://jarvics.tistory.com/126)
+⚒️  Mysql Engine에 대해 - [Read Post](https://jarvics.tistory.com/126)  
+⚒️  Annotation 기반 Bean register 등록 원리 - [Read Post](https://jarvics.tistory.com/127)  
+⚒️  Enum 타입 엔티티에서 커스텀 코드 DB에 넣기 - [Read Post](https://jarvics.tistory.com/128)  
   
 ## Tech Stack
 - JAVA

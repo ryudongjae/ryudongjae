@@ -9,11 +9,12 @@ I'm currently developing chart backends using Java and Spring in Korea. My focus
 * HanteoChart Backend Develop ([Hanteochart](https://www.hanteochart.com/)) 
 
 ## Recent Posts
-⚒️  Hexagonal Architecture - [Read Post](https://jarvics.tistory.com/122)  
-⚒️  트랜잭션 강결합과 약결합 - [Read Post](https://jarvics.tistory.com/125)  
-⚒️  Mysql Engine에 대해 - [Read Post](https://jarvics.tistory.com/126)  
-⚒️  Annotation 기반 Bean register 등록 원리 - [Read Post](https://jarvics.tistory.com/127)  
-⚒️  Enum 타입 엔티티에서 커스텀 코드 DB에 넣기 - [Read Post](https://jarvics.tistory.com/128)  
+**⚒️  Hexagonal Architecture** - [Read Post](https://jarvics.tistory.com/122)  
+**⚒️  트랜잭션 강결합과 약결합** - [Read Post](https://medium.com/@rdj10149/d5ea89eecbd8)  
+**⚒️  Mysql Engine에 대해** - [Read Post](https://medium.com/@rdj10149/mysql-architecture-mysql-engine%EC%97%90-%EB%8C%80%ED%95%B4-acba89301ca8)  
+**⚒️  Annotation 기반 Bean register 등록 원리** - [Read Post](https://medium.com/@rdj10149/applicationcontext-annotation-%EA%B8%B0%EB%B0%98-bean-register-%EB%93%B1%EB%A1%9D-%EC%9B%90%EB%A6%AC-eb380d1ce60c)  
+**⚒️  Enum 타입 엔티티에서 커스텀 코드 DB에 넣기** - [Read Post](https://jarvics.tistory.com/128)  
+**⚒️  Apache Kafka에 대하여 -** [Read Post](https://medium.com/@rdj10149/334549af4b40)  
   
 ## Tech Stack
 - JAVA

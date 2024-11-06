@@ -16,6 +16,7 @@ I'm currently developing chart backends using Java and Spring in Korea. My focus
 **⚒️  Enum 타입 엔티티에서 커스텀 코드 DB에 넣기** - [Read Post](https://jarvics.tistory.com/128)  
 **⚒️  Apache Kafka에 대하여 -** [Read Post](https://medium.com/@rdj10149/334549af4b40)  
 **⚒️  Apache Kafka 중복 메시지를 어떻게 방지할 것 인가 -** [Read Post](https://medium.com/@rdj10149/apache-kafka-%EC%A4%91%EB%B3%B5-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%B0%A9%EC%A7%80%ED%95%A0-%EA%B2%83-%EC%9D%B8%EA%B0%80-cd263cefd397)  
+**⚒️  Mysql 8.0 B-tree Index(인덱스) -** [Read Post](https://medium.com/@rdj10149/database-b-tree-index-%EC%9D%B8%EB%8D%B1%EC%8A%A4-f580cfe81658)  
   
 ## Tech Stack
 - JAVA

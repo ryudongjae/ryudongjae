@@ -6,7 +6,7 @@ I'm currently developing chart backends using Java and Spring in Korea. My focus
 
 ## 💼 CAREER 
 ❗️주식회사 한터글로벌(HanteoGlobal) (22.02 ~ )  
-HanteoChart Backend Develop ([Hanteochart](https://www.hanteochart.com/)) 
+📍 HanteoChart Backend Develop ([Hanteochart](https://www.hanteochart.com/)) 
 
 ## Recent Posts
 **⚒️  Hexagonal Architecture** - [Read Post](https://jarvics.tistory.com/122)  
